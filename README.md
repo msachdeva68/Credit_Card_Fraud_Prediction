@@ -2,10 +2,9 @@
 
 # Hello World, I am Mohit Sachdeva.  
 
-## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the MIT - see the [MIT License](LICENSE) file for details.
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 
