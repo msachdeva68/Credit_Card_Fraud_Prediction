@@ -38,7 +38,6 @@ The dataset contains transactions made by credit cards in September 2013 by Euro
 
 ### Prerequisites
 
-[List any dependencies or requirements that need to be installed before running the software.]
 pandas
 
 numpy
@@ -52,7 +51,6 @@ sklearn
 
 ### Installation
 
-[Provide step-by-step instructions on how to install your project. Include any setup or configuration necessary.]
 Check and run the code by following these general steps:
 
 1. Clone the Repository:
