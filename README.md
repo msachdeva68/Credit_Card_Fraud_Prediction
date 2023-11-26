@@ -1,7 +1,7 @@
 
 ## Created by Mohit Sachdeva
 
-- [Github](https://drive.google.com/file/d/1wWUOkXuXa1p5MQnC3ikC0wWjCE19u_dv/view?usp=share_link) - [@msachdeva68](https://github.com/msachdeva68)
+- [@msachdeva68](https://github.com/msachdeva68)
 
 # Credit Card Fraud Prediction
 
@@ -17,7 +17,7 @@ A credit card is one of the most used financial products to make online purchase
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Dataset](#dataset)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
@@ -26,7 +26,7 @@ It is important that credit card companies are able to recognize fraudulent cred
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-## Introduction
+## Dataset
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
