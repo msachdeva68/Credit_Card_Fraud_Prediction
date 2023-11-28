@@ -38,9 +38,9 @@ The dataset contains transactions made by credit cards in September 2013 by Euro
 
 ### Prerequisites
 
-pandas
+Python 3.10.12
 
-numpy
+numpy 1.23.5
 
 matplotlib
 
